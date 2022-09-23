@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+
+node_modules
+dist
+*.local
+
+# VSC Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
